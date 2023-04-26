@@ -1,0 +1,6 @@
+
+[
+	{
+		"basicSalary":"${jsonSalaryList.salaryBasicSalary}"
+	}
+]
